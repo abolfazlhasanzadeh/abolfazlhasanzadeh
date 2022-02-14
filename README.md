@@ -1,4 +1,4 @@
-- 👋 Hi, I’m abolfazl Hasanzadeh
+- 👋 Hi, I’m Abolfazl Hasanzadeh
 - 👀 I’m interested in js
 - 🌱 I’m currently learning react
 - 📫 How to reach me Email
